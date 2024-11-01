@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stack</string>
+    <string name="hello_users">Hello Users</string>
+    <string name="enter_postfix_expression">Enter Postfix Expression</string>
+    <string name="convert">Convert</string>
+    <string name="enter_infix_expression">Enter Infix Expression</string>
+    <string name="Convert">Convert</string>
+    <string name="clear">Clear</string>
+</resources>
